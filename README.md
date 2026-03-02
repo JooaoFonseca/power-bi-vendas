@@ -24,4 +24,9 @@ TECNOLOGIAS UTILIZADAS:
   Modelagem de dados relacional
   Visualização de Dados
 
+<p align="center">
+  <img src="imagens/power bi vendas dashboard.png" width="800">
+</p>
+
+
 
